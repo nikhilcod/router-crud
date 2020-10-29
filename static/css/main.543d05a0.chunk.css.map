@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,MAEE,iBACF,CAEA,MACE,kBACF","file":"main.543d05a0.chunk.css","sourcesContent":["tr,\r\nh1 {\r\n  text-align: center;\r\n}\r\n\r\nlabel {\r\n  font-weight: bolder;\r\n}\r\n"]}
